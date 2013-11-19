@@ -1,0 +1,26 @@
+Voodoo Cert Tree Tracker (VCTT)
+Copyright 2013, Chris Henderson
+
+This product was developed by Chris Henderson (chrishenderson08@gmail.com).
+Voodoo Cert Tree Tracker (VCTT) is licensed under the Apache License Version 2.0.
+Source code is available on GitHub.com at https://github.com/chrishenderson08.
+
+This software references/uses, but does not modify, the Apache Commons IO 2.4 library.  
+The Apache Commons IO 2.4 library was developed at The Apache Software Foundation and
+is licensed under the Apache License Version 2.0 (See lib\commons-io-2.4\NOTICE.txt and
+lib\commons-io-2.4\LICENSE.txt).  Visit http://commons.apache.org/proper/commons-io/
+for more information about the Apache Commons IO 2.4 project or to download
+the library or its source code.
+
+This software references/uses, but does not modify, the Google GSON 2.2.4 library.  
+The Google GSON 2.2.4 library was developed as an open source project, available
+on Google Code and is licensed under the Apache License Version 2.0
+(See lib\google-gson-2.2.4\LICENSE).  Visit http://code.google.com/p/google-gson/ for more
+information about the Google GSON 2.2.4 project and its specific contributors,
+or to download the library or its source code.
+
+This software references/uses, but does not modify, the 
+MigLayout - Java Layout Manager Version 4.0.  The MigLayout - Java Layout Manager Version 4.0
+was developed by Mikael Grev, MiG InfoCom AB and is licensed under the 
+New BSD License (3-clause BSD License) (see MiG Layout V4.0\license.txt). Visit http://www.miglayout.com/ for 
+more information or to download MigLayout - Java Layout Manager Version 4.0 or its source code.

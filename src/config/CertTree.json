@@ -1,0 +1,108 @@
+{
+"tiers":[{
+		"tier1":[{
+			"classes":[
+				{
+				"className":"Sunderer",
+				"Sunderer":[
+					{"id":"2995", "name":"Sunderer Advanced Mobile Station", "cost":"50", "reqd":"1", "isItem":"1", "lineId":"-1"}
+				]
+				}
+			]
+		}],
+		"tier2":[{
+			"classes":[
+				{
+				"className":"Heavy Assault",
+				"Heavy Assault":[
+					{"id":"-1", "name":"NC6 Gauss SAW", "cost":"0", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"1651", "name":"LX Tacti-Eye (3.4x) (NC6 Gauss SAW)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"1006", "name":"HS/NV Scope (1x) (NC6 Gauss SAW)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"531", "name":"Forward Grip (NC6 Gauss SAW)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"14000", "name":"Compensator (NC6 Gauss SAW)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"33004", "name":"Hawk GD-68", "cost":"250", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"8774", "name":"Resist Shield 1", "cost":"50", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7698", "name":"Nanoweave Armor 1", "cost":"1", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7699", "name":"Nanoweave Armor 2", "cost":"10", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7700", "name":"Nanoweave Armor 3", "cost":"50", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"4080", "name":"Concussion Grenade", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"4086", "name":"C-4 (explosives) 1", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"1040"},
+					{"id":"4087", "name":"C-4 (explosives) 2", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"1040"},
+					{"id":"33003", "name":"AF-22 Crow", "cost":"250", "reqd":"0", "isItem":"1", "lineId":"-1"}
+				]
+				},
+				{
+				"className":"Engineer",
+				"Engineer":[
+					{"id":"7172", "name":"Gauss Compact S", "cost":"500", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"9082", "name":"LX Tacti-Eye (3.4x) (Gauss Compact S)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"9091", "name":"HS/NV Scope (1x) (Gauss Compact S)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"9097", "name":"Smoke Launcher (Gauss Compact S)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"-1", "name":"Nano-Armor Kit 1", "cost":"0", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"3830", "name":"Nano-Armor Kit 2", "cost":"10", "reqd":"1", "isItem":"0", "lineId":"511"},
+					{"id":"3831", "name":"Nano-Armor Kit 3", "cost":"30", "reqd":"1", "isItem":"0", "lineId":"511"},
+					{"id":"3832", "name":"Nano-Armor Kit 4", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"511"},
+					{"id":"3833", "name":"Nano-Armor Kit 5", "cost":"150", "reqd":"1", "isItem":"0", "lineId":"511"},
+					{"id":"3834", "name":"Nano-Armor Kit 6", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"511"},
+					{"id":"4031", "name":"Tank Mine 1", "cost":"100", "reqd":"1", "isItem":"0", "lineId":"1019"},
+					{"id":"4029", "name":"Tank Mine 2", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"1019"},
+					{"id":"4030", "name":"Sticky Grenade", "cost":"100", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"7617", "name":"Nanoweave Armor 1", "cost":"1", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7618", "name":"Nanoweave Armor 2", "cost":"10", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7619", "name":"Nanoweave Armor 3", "cost":"50", "reqd":"1", "isItem":"1", "lineId":"-1"}
+				]
+				},
+				{
+				"className":"Medic",
+				"Medic":[
+					{"id":"73", "name":"GR-22", "cost":"250", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"9703", "name":"LX Tacti-Eye (3.4x) (GR-22)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"9712", "name":"HS/NV Scope (GR-22)", "cost":"30", "reqd":"0", "isItem":"1", "lineId":"-1"},
+					{"id":"9719", "name":"Suppressor (GR-22)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"9709", "name":"Forward Grip (GR-22)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"-1", "name":"Medical Applicator 1", "cost":"0", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"2264", "name":"Medical Applicator 2", "cost":"10", "reqd":"1", "isItem":"0", "lineId":"507"},
+					{"id":"2265", "name":"Medical Applicator 3", "cost":"30", "reqd":"1", "isItem":"0", "lineId":"507"},
+					{"id":"2266", "name":"Medical Applicator 4", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"507"},
+					{"id":"2267", "name":"Medical Applicator 5", "cost":"100", "reqd":"1", "isItem":"0", "lineId":"507"},
+					{"id":"2268", "name":"Medical Applicator 6", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"507"},
+					{"id":"4067", "name":"Nanite Revive Grenade", "cost":"400", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"1220", "name":"Grenade Bandolier 1", "cost":"100", "reqd":"1", "isItem":"0", "lineId":"1428"},
+					{"id":"1221", "name":"Grenade Bandolier 2", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"1428"},
+					{"id":"-1", "name":"Nano-Regen Device 1", "cost":"0", "reqd":"1", "isItem":"0", "lineId":"-1"},
+					{"id":"2149", "name":"Nano-Regen Device 2", "cost":"1", "reqd":"1", "isItem":"0", "lineId":"470"},
+					{"id":"2150", "name":"Nano-Regen Device 3", "cost":"10", "reqd":"1", "isItem":"0", "lineId":"470"},
+					{"id":"2151", "name":"Nano-Regen Device 4", "cost":"30", "reqd":"1", "isItem":"0", "lineId":"470"},
+					{"id":"2152", "name":"Nano-Regen Device 5", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"470"},
+					{"id":"3614", "name":"C-4 (explosives) 1", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"918"},
+					{"id":"3615", "name":"C-4 (explosives) 2", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"918"}
+				]
+				}
+			]
+		}],
+		"tier3":[{
+			"classes":[
+				{
+				"className":"Sunderer",
+				"Sunderer":[
+					{"id":"2801", "name":"M12 Kobalt (Primary)", "cost":"100", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"3084", "name":"G30 Walker (Secondary)", "cost":"750", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"606", "name":"Acquisition Timer 1", "cost":"1", "reqd":"1", "isItem":"0", "lineId":"143"},
+					{"id":"607", "name":"Acquisition Timer 2", "cost":"10", "reqd":"1", "isItem":"0", "lineId":"143"},
+					{"id":"608", "name":"Acquisition Timer 3", "cost":"30", "reqd":"1", "isItem":"0", "lineId":"143"},
+					{"id":"609", "name":"Acquisition Timer 4", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"143"},
+					{"id":"610", "name":"Acquisition Timer 5", "cost":"100", "reqd":"1", "isItem":"0", "lineId":"143"},
+					{"id":"5829", "name":"Vehicle Ammo Dispenser 1", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"268"}
+				]
+				},
+				{
+				"className":"Max",
+				"Max":[
+					{"id":"8850", "name":"Aegis Shield 1", "cost":"150", "reqd":"1", "isItem":"1", "lineId":"-1"},
+					{"id":"7506", "name":"AF-41 Hacksaw (Left and Right)", "cost":"1000", "reqd":"1", "isItem":"1", "lineId":"-1"}
+				]
+				}
+			]
+		}]
+}]
+}
