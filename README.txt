@@ -70,7 +70,7 @@ select a new character.
 
 Developer Instructions
 ----------------------
-Source code can be obtained on GitHub at https://github.com/chrishenderson08.
+Source code can be obtained on GitHub at https://github.com/chrishenderson08/VCTT.
 
 I used Eclipse Standard when I developed this.  Whatever IDE you use, ensure that you
 add all of the included libraries to your build path or the project won't compile.  Since the
