@@ -363,7 +363,6 @@ public class CertTreeGui extends JFrame{
 		private static final String		STAT_TEXT_INCOMPLETE = "Incomplete";
 		private static final String		STAT_TEXT_OPTIONAL = "Optional";
 		
-		private static final int		COL_INDEX_NAME = 0;
 		private static final int 		COL_INDEX_COST = 1;
 		private static final int		COL_INDEX_STAT = 2;
 		private static final int		COL_INDEX_ID = 3;
@@ -390,8 +389,6 @@ public class CertTreeGui extends JFrame{
 
 		@Override
 		public Object getValueAt( int rowIndex, int columnIndex ){ return reqs.get( rowIndex )[columnIndex]; }
-		
-		public List<String[]> getDataVector(){ return reqs; }
 		
 		public void setDataVector( List<String[]> reqsPar ){ 
 			reqs = reqsPar;
