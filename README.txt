@@ -116,6 +116,14 @@ Known Bugs
 	
 	
 	
+Planned Features (to-do list)
+-----------------------------
+-Add in-application functionality to change character.
+-Add functionality to filter the completion table (e.g. - Alphabetical order, by cert cost,
+	by completion status, etc).
+-Add capability to search character name out of the outfit member list.
+	
+	
 Contact Info / Bug Reporting
 ----------------------------
 VCTT is brought to you by the Voodoo Shipping Company Development Team.
