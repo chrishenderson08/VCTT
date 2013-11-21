@@ -74,8 +74,8 @@
 					{"id":"2150", "name":"Nano-Regen Device 3", "cost":"10", "reqd":"1", "isItem":"0", "lineId":"470"},
 					{"id":"2151", "name":"Nano-Regen Device 4", "cost":"30", "reqd":"1", "isItem":"0", "lineId":"470"},
 					{"id":"2152", "name":"Nano-Regen Device 5", "cost":"50", "reqd":"1", "isItem":"0", "lineId":"470"},
-					{"id":"3614", "name":"C-4 (explosives) 1", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"918"},
-					{"id":"3615", "name":"C-4 (explosives) 2", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"918"}
+					{"id":"4070", "name":"C-4 (explosives) 1", "cost":"200", "reqd":"1", "isItem":"0", "lineId":"1034"},
+					{"id":"4071", "name":"C-4 (explosives) 2", "cost":"500", "reqd":"1", "isItem":"0", "lineId":"1034"}
 				]
 				}
 			]
