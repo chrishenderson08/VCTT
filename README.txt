@@ -3,7 +3,7 @@
 
 INTELLECTUAL PROPERTY NOTICE
 ----------------------------
-The Voodoo Cert Tree Tracker (VCTT) is NOT in any manner (suggested or implied) 
+The Voodoo Cert Tree Tracker (VCTT) is NOT in any manner (express or implied) 
 sponsored by, endorsed by, or associated with ©2013 Sony Online Entertainment (SOE) 
 or Planetside 2®.
 
