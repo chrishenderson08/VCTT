@@ -9,6 +9,14 @@ or Planetside 2®.
 
 
 
+NOTICE
+------
+VCTT has been unsupported for some time and is not correctly reporting several certifications.
+As always feel free to research and fix these issues, however I will not likely be devoting
+much time to this project for a while due to it being largely unused.  If interest were to
+surge, this may change.
+
+
 Description
 -----------
 The Voodoo Cert Tree Tracker (VCTT) is a simple Windows java program that allows 
