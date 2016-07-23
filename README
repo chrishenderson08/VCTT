@@ -30,7 +30,7 @@ during outfit operations.
 
 Licensing
 ---------
-Apache License Version 2.0 (See LICENSE.txt and NOTICE.txt)
+Apache License Version 2.0 (See LICENSE and NOTICE)
 
 
 
@@ -91,49 +91,3 @@ included a standards file.  Basically, keep brackets on the same line, pad expre
 with a space between them and parenthesis, use "m_" before all instance variables, use all-caps
 for constants, and use the typical java conventions.  If you come remotely close, I won't be too
 up-tight about it.
-
-
-
-Current Version
----------------
-Version 1.0
-
-
-
-Release Notes
--------------
-Version 1.0 (Initial Release)
-		-Added ability to select outfit/character data from API.  User chooses their
-			character and then the application saves their info locally.  This
-			way they only need to do this once.
-		-Added cert tree config file in JSON format.  File is written up to specification
-			of outfit.  This file is parsed at run-time, giving the application the
-			structure of the certification tree.
-		-Added baseline structure back-end for querying the API and parsing the results.
-		-Added GUI that displays a table laying out the completion status of the cert tree 
-			for the user.  This table can be filtered by tier and by class.
-			
-			
-			
-Known Bugs
-----------
--2 certifications (advanced foregrip for the SAW and the Anti-Vehicle turret) are missing from
-	the current tree structure.  This is due to the API failing to present the data or presenting
-	the data in an odd manner that has yet to be dissected.  Until this is fixed, remain cognizant
-	of the absense.
-	
-	
-	
-Planned Features (to-do list)
------------------------------
--Add in-application functionality to change character.
--Add functionality to filter the completion table (e.g. - Alphabetical order, by cert cost,
-	by completion status, etc).
--Add capability to search character name out of the outfit member list.
-	
-	
-Contact Info / Bug Reporting
-----------------------------
-VCTT is brought to you by the Voodoo Shipping Company Development Team.
-The project lead is Chris Henderson.  For questions, concerns, suggestions,
-or bug reports, contact Chris at chrishenderson08@gmail.com.
